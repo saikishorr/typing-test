@@ -12,7 +12,7 @@ A simple web-based typing speed test application to measure your typing speed in
 
 ## How to Use
 
-1. Open the [Typing Speed Test Game](https://saikishor164.github.io/typing-test/).
+1. Open the [Typing Speed Test Game](https://saikishorr.github.io/typing-test/).
 2. Start typing in the provided text area.
 3. Check your WPM and CPM scores at the end of the timer.
 4. Click "Try Again" to restart the test.
