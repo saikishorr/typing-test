@@ -1,7 +1,7 @@
 # Typing Speed Test Game 
 
 A simple web-based typing speed test application to measure your typing speed in words per minute (WPM) and characters per minute (CPM).
- 
+  
 ## Features
 
 - **Timer**: Countdown timer set to 60 seconds.
